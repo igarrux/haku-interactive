@@ -1,0 +1,27 @@
+{
+  "name": "@haku-interactive/styles",
+  "version": "1.0.0",
+  "description": "Styles for haku-interactive components",
+  "files": [
+    "*.css"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "@haku-interactive",
+    "haku-interactive",
+    "styles",
+    "ui-component",
+    "haku-interactive/styles"
+  ],
+  "author": "Jhon Guerrero  <igarrux@gmail.com> (Garrux)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}

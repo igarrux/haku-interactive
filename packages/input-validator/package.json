@@ -1,0 +1,26 @@
+{
+  "name": "@haku-interactive/input-validator",
+  "version": "1.0.0",
+  "description": "Validate entries in your forms",
+  "repository": "https://github.com/igarrux/haku-interactive.git",
+  "main": "build/main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "@haku-interactive",
+    "haku-interactive",
+    "input-validator",
+    "ui-component",
+    "haku-interactive/input-validator"
+  ],
+  "author": "Jhon Guerrero  <igarrux@gmail.com> (Garrux)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "@haku-interactive/form",
+  "version": "1.0.0",
+  "description": "Create your forms very fast, without thinking about structure",
+  "main": "build/main.js",
+  "repository": "https://github.com/igarrux/haku-interactive.git",
+
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "@haku-interactive",
+    "haku-interactive",
+    "form",
+    "ui-component",
+    "haku-interactive/form"
+  ],
+  "author": "Jhon Guerrero  <igarrux@gmail.com> (Garrux)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}

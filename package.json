@@ -1,0 +1,24 @@
+{
+    "name": "haku-interactive",
+    "version": "1.0.0",
+    "description": "A monorepo for Haku interactive. Has interactive elements: forms, dialogs, inputs, etc.",
+    "repository": "https://github.com/igarrux/haku-interactive.git",
+    "author": "Jhon Guerrero (Garrux)",
+    "license": "MIT",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "dependencies": {
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
+    },
+    "devDependencies": {
+        "@types/react": "^18.3.3",
+        "@types/react-dom": "^18.3.0",
+        "@vitejs/plugin-react-swc": "^3.7.0",
+        "globals": "^15.8.0",
+        "prettier": "^3.3.2",
+        "typescript": "^5.5.3"
+    }
+}
